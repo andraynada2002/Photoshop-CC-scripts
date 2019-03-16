@@ -24,7 +24,9 @@ signed void 2003();
  //Adobe Photoshop CC filter reduce noise fixed artifacts
  //Adobe Photoshop CC filter reduce noise fixed sharpen
  //Adobe Photoshop CC filter reduce noise fixed lighting
+ //Adobe Photoshop CC filter reduce noise clearest quality and definition
 }
+
 
 
 

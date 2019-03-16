@@ -24,7 +24,9 @@ signed int 2003();
  //Adobe Photoshop CC filter hightpass fixed artifacts
  //Adobe Photoshop CC filter hightpass fixed sharpen
  //Adobe Photoshop CC filter hightpass fixed lighting
+ //Adobe Photoshop CC filter hightpass clearest quality and definition
 }
+
 
 
 

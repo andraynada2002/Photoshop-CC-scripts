@@ -24,7 +24,9 @@ signed int 2003();
  //Adobe Photoshop CC correction levels fixed artifacts
  //Adobe Photoshop CC correction levels fixed sharpen
  //Adobe Photoshop CC correction levels fixed lighting
+ //Adobe Photoshop CC correction levels clearest quality and definition
 }
+
 
 
 

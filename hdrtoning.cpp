@@ -24,6 +24,7 @@ signed int 2003();
  //Adobe Photoshop CC correction hdr toning fixed artifacts
  //Adobe Photoshop CC correction hdr toning fixed sharpen
  //Adobe Photoshop CC correction hdr toning fixed lighting
+ //Adobe Photoshop CC correction hdr toning clearest quality and definition
 }
 
 

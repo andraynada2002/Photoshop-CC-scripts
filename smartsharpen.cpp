@@ -22,8 +22,9 @@ signed int 2003();
  //Adobe Photoshop CC filter smart sharpen fixed blur
  //Adobe Photoshop CC filter smart sharpen fixed defects
  //Adobe Photoshop CC filter smart sharpen fixed artifacts
- //Adobe Photoshop CC filter smart sharped fixed sharpen
+ //Adobe Photoshop CC filter smart sharpen fixed sharpen
  //Adobe Photoshop CC filter smart sharpen fixed lighting
+ //Adobe Photoshop CC filter smart sharpen clearest quality and definition
 }
 
 

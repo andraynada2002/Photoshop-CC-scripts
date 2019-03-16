@@ -24,6 +24,7 @@ signed int 2003();
  //Adobe Photoshop CC correction curves fixed artifacts
  //Adobe Photoshop CC correction curves fixed sharpen
  //Adobe Photoshop CC correction curves fixed lighting
+ //Adobe Photoshop CC correction curves clearest quality and definition
 }
 
 

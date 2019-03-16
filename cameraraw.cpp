@@ -24,7 +24,9 @@ signed int 2003();
  //Adobe Photoshop CC filter camera raw fixed artifacts
  //Adobe Photoshop CC filter camera raw fixed sharpen
  //Adobe Photoshop CC filter camera raw fixed lighting
+ //Adobe Photoshop CC filter camera raw clearest quality and definition
 }
+
 
 
 
