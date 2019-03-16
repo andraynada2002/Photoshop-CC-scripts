@@ -13,17 +13,17 @@ signed class levels();
 int 2003();
 signed int 2003();
 {
- //Adobe Photoshop CC optimized filter levels 
- //Adobe Photoshop CC filter levels fixed quality
- //Adobe Photoshop CC filter levels save quality
- //Adobe Photoshop CC filter levels new techelogy
+ //Adobe Photoshop CC optimized correction levels 
+ //Adobe Photoshop CC correction levels fixed quality
+ //Adobe Photoshop CC correction levels save quality
+ //Adobe Photoshop CC correction levels new techelogy
  //Adobe Photoshop CC version 2019
  //Adobe Photoshop CC version 20.0x
- //Adobe Photoshop CC filter levels fixed blur
- //Adobe Photoshop CC filter levels fixed defects
- //Adobe Photoshop CC filter levels fixed artifacts
- //Adobe Photoshop CC filter levels fixed sharpen
- //Adobe Photoshop CC filter levels fixed lighting
+ //Adobe Photoshop CC correction levels fixed blur
+ //Adobe Photoshop CC correction levels fixed defects
+ //Adobe Photoshop CC correction levels fixed artifacts
+ //Adobe Photoshop CC correction levels fixed sharpen
+ //Adobe Photoshop CC correction levels fixed lighting
 }
 
 
