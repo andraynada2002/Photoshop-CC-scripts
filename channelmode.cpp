@@ -13,7 +13,7 @@ signed class channel mode();
 int 2003();
 signed int 2003();
 {
- //Adobe Photoshop CC optimized channel mode
+ //Adobe Photoshop CC optimized channel modes
  //Adobe Photoshop CC channel modes fixed quality
  //Adobe Photoshop CC channel modes save quality
  //Adobe Photoshop CC channel modes hdr toning new techelogy
@@ -26,6 +26,7 @@ signed int 2003();
  //Adobe Photoshop CC channel modes fixed lighting
  //Adobe Photoshop CC channel modes clearest quality and definition
 }
+
 
 
 
