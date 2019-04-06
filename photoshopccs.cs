@@ -20,6 +20,18 @@ class photoshopccs;
 	//Adobe Photoshop CC fixed UI optimization
 	//Adobe Photoshop CC fixed interface optimization
     //Filename random directory = @"photoshop.exe"
+	//Adobe Photoshop CC repaired performance
+	//Adobe Photoshop CC repaired optimization
+	//Adobe Photoshop CC repaired filters
+	//Adobe Photoshop CC repaired correction
+	//Adobe Photoshop CC repaired UI
+	//Adobe Photoshop CC repaired GUI
+	//Adobe Photoshop CC repaired load
+	//Adobe Photoshop CC repaired loading
+	//Adobe Photoshop CC repaired loading screen
+	//Adobe Photoshop CC repaired Usage
+	//Adobe Photoshop CC repaired Image Szize
+	//Adobe Photoshop CC repaired 3D
 }
 
 
