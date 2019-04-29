@@ -43,6 +43,18 @@ class photoshopcc;
 //Adobe Photoshop CC fixed filters
 //Adobe Photoshop CC filters detached
 //Adobe Photoshop CC filters attached
+//Adobe Photoshop CC RGB saving fixed
+//Adobe Photoshop CC RGB saving detached
+//Adobe Photoshop CC RGB saving attached
+//Adobe Photoshop CC image saving fixed
+//Adobe Photoshop CC image saving detached
+//Adobe Photoshop CC image saving attached
+//Adobe Photoshop CC RGB export fixed
+//Adobe Photoshop CC RGB export detached
+//Adobe Photoshop CC RGB export attached
+//Adobe Photoshop CC image export fixed
+//Adobe Photoshop CC image export detached
+//Adobe Photoshop CC image export attached
 namespace photoshopcc;
 {
 	public void photoshopcc;
@@ -58,6 +70,7 @@ namespace photoshopcc;
 	public add photoshopcc;
 	private add photoshopcc;
 }
+
 
 
 
