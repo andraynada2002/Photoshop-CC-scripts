@@ -55,6 +55,18 @@ class photoshopcc;
 //Adobe Photoshop CC image export fixed
 //Adobe Photoshop CC image export detached
 //Adobe Photoshop CC image export attached
+//Adobe Photoshop CC image previev fixed
+//Adobe Photoshop CC image previev detached
+//Adobe Photoshop CC image previev attached
+//Adobe Photoshop CC RGB previev fixed
+//Adobe Photoshop CC RGB previev detached
+//Adobe Photoshop CC RGB previev attached
+//Adobe Photoshop CC image opening fixed
+//Adobe Photoshop CC image opening detached
+//Adobe Photoshop CC image opening attached
+//Adobe Photoshop CC RGB opening fixed
+//Adobe Photoshop CC RGB opening detached
+//Adobe Photoshop CC RGB opening attached
 namespace photoshopcc;
 {
 	public void photoshopcc;
@@ -70,6 +82,7 @@ namespace photoshopcc;
 	public add photoshopcc;
 	private add photoshopcc;
 }
+
 
 
 
