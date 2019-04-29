@@ -37,6 +37,12 @@ class photoshopcc;
 //Adobe Photoshop CC fixed RGB quality
 //Adobe Photoshop CC RGB quality detached
 //Adobe Photoshop CC RGB quality attached
+//Adobe Photoshop CC RGB definition fixed
+//Adobe Photoshop CC RGB definition detached
+//Adobe Photoshop CC RGB definition attached
+//Adobe Photoshop CC fixed filters
+//Adobe Photoshop CC filters detached
+//Adobe Photoshop CC filters attached
 namespace photoshopcc;
 {
 	public void photoshopcc;
@@ -52,6 +58,7 @@ namespace photoshopcc;
 	public add photoshopcc;
 	private add photoshopcc;
 }
+
 
 
 
